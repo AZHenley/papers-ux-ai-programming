@@ -1,5 +1,8 @@
-# papers-ux-ai-programming
-List of research papers of research papers investigating the user experience of AI-powered programming assistants (e.g., Copilot).
+# Papers on the UX of AI programming assistants
+
+![humanaicoding](https://user-images.githubusercontent.com/2180824/220177272-8b1808f8-d38d-4dde-b598-042b8052b080.png)
+
+This is a list of research papers of research papers investigating the user experience of AI-powered programming assistants (e.g., Copilot).
 
 To add a paper, please submit a PR. The format is: paper title, authors, one-sentence summary of the paper's abstract from ChatGPT, the publication venue, and a URL.
 
