@@ -11,7 +11,7 @@ To add a paper, please submit a PR. The format is: paper title, authors, one-sen
 - On the Design of AI-powered Code Assistants for Notebooks
   - Andrew M. McNutt, Chenglong Wang, Robert A. DeLine, Steven M. Drucker
   - Investigates the potential of AI-powered code assistants in computational notebooks, identifies challenges and opportunities for future systems in this space, and highlights the value of disambiguation, domain-specific tools, and polite assistants.
-  - CHI 2023
+  - CHI'23
   - https://arxiv.org/abs/2301.11178
 - Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?
   - Jean-Baptiste Döderlein, Mathieu Acher, Djamel Eddine Khelladi, Benoit Combemale
