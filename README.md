@@ -63,3 +63,8 @@ To add a paper, please submit a PR. The format is: paper title, authors, one-sen
   - Explores the similarities and differences between programming with large language models and prior conceptualizations of programmer assistance, highlighting LLM-assisted programming as a new way of programming with its own distinct properties and challenges, and discussing the issues that might arise when applying LLMs to end-user programming.
   - PPIG'22
   - https://arxiv.org/abs/2208.06213
+- Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming
+  - Majeed Kazemitabaar, Justin Chow, Carl Ka To Ma, Barbara J. Ericson, David Weintrop, Tovi Grossman
+  - Examines the impact of using OpenAI Codex, an AI code generator, on novice programmers, finding that while it significantly increases code-authoring performance, it does not negatively impact manual code-modification tasks, and learners with higher pre-test scores perform better on retention post-tests if they had access to Codex.
+  - CHI'23
+  - https://arxiv.org/abs/2302.07427
