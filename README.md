@@ -68,3 +68,8 @@ To add a paper, please submit a PR. The format is: paper title, authors, one-sen
   - Examines the impact of using OpenAI Codex, an AI code generator, on novice programmers, finding that while it significantly increases code-authoring performance, it does not negatively impact manual code-modification tasks, and learners with higher pre-test scores perform better on retention post-tests if they had access to Codex.
   - CHI'23
   - https://arxiv.org/abs/2302.07427
+- Generating Programs Trivially: Student Use of Large Language Models
+  - Siddhartha Prasad, Ben Greenman, Tim Nelson, Shriram Krishnamurthi
+  - Studies the impact of unfettered GPT-3 access on students in an upper-level formal methods course. Students rarely used the plugin and overwhelmingly expressed concerns about using GPT to help with their homework.
+  - CompEd'23
+  - https://dl.acm.org/doi/10.1145/3576882.3617921
