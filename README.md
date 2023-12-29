@@ -73,3 +73,8 @@ To add a paper, please submit a PR. The format is: paper title, authors, one-sen
   - Studies the impact of unfettered GPT-3 access on students in an upper-level formal methods course. Students rarely used the plugin and overwhelmingly expressed concerns about using GPT to help with their homework.
   - CompEd'23
   - https://dl.acm.org/doi/10.1145/3576882.3617921
+- How Novices Use LLM-based Code Generators to Solve CS1 Coding Tasks in a Self-Paced Learning Environment
+  - Majeed Kazemitabaar, Xinying Hou, Austin Z. Henley, Barbara Ericson, David Weintrop, Tovi Grossman
+  - Investigates how students interact with an LLM-based tool for CS1 problems, including when they prompt, what they prompt, how they prompt, and what they do with the output.
+  - Koli Calling'23
+  - https://austinhenley.com/pubs/Kazemitabaar2023Koli_LLMsCS1.pdf
